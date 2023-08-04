@@ -135,6 +135,9 @@ Servicio Social@DESKTOP-CB0CEO5 MINGW64 ~/Documents/Jose Eduardo/git (main)
 
 """
     git checkout Alex
+    git log  //para ver la ruta
+    git pull origin xolo
+    git fetch
 """
 
 print('prueba de rama')
