@@ -1,4 +1,4 @@
-print("Hola mundo desde marte ahora si")
+print("Hola")
 
 def pruebE():
     print("Ya esta la prueba")
